@@ -1,5 +1,5 @@
 # Herança-Java
- 🚗 Siatema de gestão de frota
+ 🚗 Sistema de gestão de frota
 
 Este projeto foi desenvolvido como parte de um desafio prático de Programação Orientada a Objetos (POO). O objetivo é demonstrar a aplicação de conceitos fundamentais como herança, polimorfismo e encapsulamento em Java.
 
@@ -13,7 +13,7 @@ Integrantes
 * **Git & GitHub** (GitHub Flow)
 * **Paradigma:** Orientação a Objetos
 
-## 🏛️ Arquitetura do Projeto
+- Projeto -
 O sistema simula uma hierarquia de veículos sob o pacote `br.edu.frota`.
 
 ### Hierarquia de Classes:
